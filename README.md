@@ -122,6 +122,13 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="RodrigoRalhaMoreira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoRalhaMoreira&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
 [website]: https://RodrigoRalhaMoreira.com
 [github_repo]: https://github.com/RodrigoRalhaMoreira/initial-pilot
 [twitter]: https://twitter.com/Rodrig0M0reira
