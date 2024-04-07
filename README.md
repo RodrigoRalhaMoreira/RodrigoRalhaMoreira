@@ -20,34 +20,66 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<!-- Visual Studio Code -->
 <picture>
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- HTML5 -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- CSS3 -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- JavaScript -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- React -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- GraphQL -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- MongoDB -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- MySQL -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 </picture>
+
+<!-- Git -->
 <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 </picture>
 <picture>
