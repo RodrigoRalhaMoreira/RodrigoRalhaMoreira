@@ -27,6 +27,34 @@
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </picture>
 
+<!-- Python -->
+<picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
+    <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+</picture>
+
+<!-- Java -->
+<picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
+    <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+</picture>
+
+<!-- JavaScript -->
+<picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
+    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+</picture>
+
+<!-- Solidity -->
+<picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
+    <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
+</picture>
+
 <!-- HTML5 -->
 <picture>
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
@@ -39,13 +67,6 @@
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- JavaScript -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 </picture>
 
 <!-- React -->
