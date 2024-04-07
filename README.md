@@ -9,127 +9,26 @@
 - 🥅 2024 Goals: Learn more about web3, staying in shape and being healthy!
 - ⚡ Fun fact: Once I was bored so I decided to memorize the locations of every country in the world 🤣
 
-### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Rodrig0M0reira#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Rodrig0M0reira#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rodrigomoreira3#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rodrigomoreira3#gh-dark-mode-only)
-&nbsp;&nbsp;
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigomoreira3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rodrig0M0reira) 
 
-### Languages and Tools:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RodrigoRalhaMoreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRalhaMoreira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRalhaMoreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Visual Studio Code -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-</picture>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RodrigoRalhaMoreira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Python -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-</picture>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RodrigoRalhaMoreira&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Java -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-</picture>
+---
+[![](https://visitcount.itsvg.in/api?id=RodrigoRalhaMoreira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- JavaScript -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- Solidity -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- HTML5 -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- CSS3 -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- React -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- GraphQL -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- MongoDB -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- MySQL -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-</picture>
-
-<!-- Git -->
-<picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-</picture>
-<picture>
-    <source srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-</picture>
-<picture>
-    <source srcset="./img/terminal-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <source srcset="./img/terminal-light.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
-    <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-</picture>
-
-</picture>
-
-
-
-
-<br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="RodrigoRalhaMoreira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoRalhaMoreira&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://RodrigoRalhaMoreira.com
 [github_repo]: https://github.com/RodrigoRalhaMoreira/initial-pilot
-[twitter]: https://twitter.com/Rodrig0M0reira
-[linkedin]: https://www.linkedin.com/in/rodrigomoreira3
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
