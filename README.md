@@ -22,7 +22,6 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <picture>
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-light-mode-only" media="(prefers-color-scheme: light)">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
