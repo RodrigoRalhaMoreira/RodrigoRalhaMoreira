@@ -3,7 +3,7 @@
 
 ## I'm a Backend Developer, and a Blockchain Enthusiast!!
 
-- 🔭 Check out what I am working on: [ZKP small prototype for HyFlexChain][github_repo]!
+- 🔭 Check out what I am working on: [Transactions with ZKProofs for HyFlexChain][github_repo]!
 - 🌱 I’m currently learning blockchain technologies, and developing my master's thesis using Zero Knowledge Proofs for private transactions in HyFlexChain. 
 - 👯 I’m always looking to collaborate in new projects if I have time for it!
 - 🥅 2024 Goals: Learn more about web3, staying in shape and being healthy!
@@ -29,6 +29,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RodrigoRalhaMoreira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[github_repo]: https://github.com/RodrigoRalhaMoreira/initial-pilot
+[github_repo]: https://github.com/RodrigoRalhaMoreira/hyflexchain_flex_spend
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
