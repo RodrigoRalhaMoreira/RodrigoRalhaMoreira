@@ -3,10 +3,9 @@
 
 ## I'm a Backend Developer, and a Blockchain Enthusiast!!
 
-- 🔭 Check out what I am working on: [Transactions with ZKProofs for HyFlexChain][github_repo]!
-- 🌱 I’m currently learning blockchain technologies, and developing my master's thesis using Zero Knowledge Proofs for private transactions in HyFlexChain. 
-- 👯 I’m always looking to collaborate in new projects if I have time for it!
-- 🥅 2024 Goals: Learn more about web3, staying in shape and being healthy!
+- 🌱 I’m currently in daily touch with Python and Django, and I am learning blockchain technologies whenever I have free time to do so :) 
+- 👯 I’m always looking to collaborate in new projects, specially in the web3 space!
+- 🥅 2025 Goals: Travel to different countries, learn more about web3, staying in shape and being healthy!
 - ⚡ Fun fact: Once I was bored so I decided to memorize the locations of every country in the world 🤣
 
 
