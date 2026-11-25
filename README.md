@@ -70,3 +70,7 @@ I build custom software, automations and AI solutions for small and mid-sized co
   <img height="165" src="https://github-readme-stats-mocha-pi-57.vercel.app/api?username=RodrigoRalhaMoreira&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats-mocha-pi-57.vercel.app/api/top-langs/?username=RodrigoRalhaMoreira&theme=dark&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRalhaMoreira&theme=dark&hide_border=true" alt="GitHub streak and total contributions"/>
+</p>
