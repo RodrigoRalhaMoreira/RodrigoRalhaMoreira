@@ -1,12 +1,15 @@
 # Hi there, I'm Rodrigo 👋 
 
 
-## I'm a Backend Developer, and a Blockchain Enthusiast!!
+## Software engineer and founder of Sprout4Good, based in Lisbon.
 
-- 🌱 I’m currently in daily touch with Python and Django, and I am learning blockchain technologies whenever I have free time to do so :) 
-- 👯 I’m always looking to collaborate in new projects, specially in the web3 space!
-- 🥅 2025 Goals: Travel to different countries, learn more about web3, staying in shape and being healthy!
-- ⚡ Fun fact: Once I was bored so I decided to memorize the locations of every country in the world 🤣
+I build custom software, automations and AI solutions for small and mid-sized companies: the systems that let a team stop copying information between emails, spreadsheets and paper, and work from one place instead.
+
+- 🏗️ Background: backend engineering on payment and exchange platforms, where a bug costs real money.
+- 🌱 Now: business systems, workflow automation and LLM integrations, structure first and AI on top.
+- 🎓 MSc in Computer Science: thesis on private transactions with zero-knowledge proofs.
+- 🤝 Open to: B2B projects, partnerships and contract work.
+- ⚡ Fun fact: once I was bored, so I memorised the location of every country in the world 🤣
 
 
 ## 🌐 Socials:
