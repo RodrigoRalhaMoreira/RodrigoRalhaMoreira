@@ -1,36 +1,51 @@
-# Hi there, I'm Rodrigo 👋 
+<h1 align="center">Hi, I'm Rodrigo 👋</h1>
 
+<p align="center">
+  <b>Software engineer and founder of <a href="https://sprout4good.pt">Sprout4Good</a></b><br/>
+  Lisbon, Portugal
+</p>
 
-## Software engineer and founder of Sprout4Good, based in Lisbon.
+<p align="center">
+  <a href="https://sprout4good.pt"><img src="https://img.shields.io/badge/Website-sprout4good.pt-5b9a4a?style=flat-square" alt="Website"/></a>
+  <a href="https://linkedin.com/in/rodrigomoreira3"><img src="https://img.shields.io/badge/LinkedIn-rodrigomoreira3-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rodrigo@sprout4good.pt"><img src="https://img.shields.io/badge/Email-rodrigo%40sprout4good.pt-1f3d2b?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### About
 
 I build custom software, automations and AI solutions for small and mid-sized companies: the systems that let a team stop copying information between emails, spreadsheets and paper, and work from one place instead.
 
-- 🏗️ Background: backend engineering on payment and exchange platforms, where a bug costs real money.
-- 🌱 Now: business systems, workflow automation and LLM integrations, structure first and AI on top.
-- 🎓 MSc in Computer Science: thesis on private transactions with zero-knowledge proofs.
-- 🤝 Open to: B2B projects, partnerships and contract work.
-- ⚡ Fun fact: once I was bored, so I memorised the location of every country in the world 🤣
+- 🏗️ **Background:** backend engineering on payment and exchange platforms, where a bug costs real money.
+- 🌱 **Now:** business systems, workflow automation and LLM integrations, structure first and AI on top.
+- 🎓 **MSc in Computer Science:** thesis on private transactions with zero-knowledge proofs.
+- 🤝 **Open to:** B2B projects, partnerships and contract work.
+- ⚡ **Fun fact:** once I was bored, so I memorised the location of every country in the world.
 
+### Tech stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigomoreira3)
+**Backend** &nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-mocha-pi-57.vercel.app/api?username=RodrigoRalhaMoreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRalhaMoreira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRalhaMoreira&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Data** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RodrigoRalhaMoreira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RodrigoRalhaMoreira&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Infrastructure** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=RodrigoRalhaMoreira&icon=0&color=0)](https://visitcount.itsvg.in)
+### GitHub stats
 
-[github_repo]: https://github.com/RodrigoRalhaMoreira/hyflexchain_flex_spend
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats-mocha-pi-57.vercel.app/api?username=RodrigoRalhaMoreira&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-mocha-pi-57.vercel.app/api/top-langs/?username=RodrigoRalhaMoreira&theme=dark&hide_border=true&layout=compact" alt="Top languages"/>
+</p>
